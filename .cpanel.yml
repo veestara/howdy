@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/veesowsm/public_html/
+    - export DEPLOYPATH=/home/veesowsm/graaayd.in/howdy
     - /bin/cp * $DEPLOYPATH
